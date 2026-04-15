@@ -1,13 +1,18 @@
-# 🤖 agency.ai
+<h1 align="center">
+  🤖 agency.ai
+</h1>
 
-agency.ai is a modern, fully responsive digital agency website built using React.js and Tailwind CSS. It focuses on delivering a smooth user experience with clean UI, interactive animations, and real-world functionality like form submission and theme switching.
+<p align="center">
+  agency.ai is a modern, fully responsive digital agency website built using React.js and Tailwind CSS. It focuses on delivering a smooth user experience with clean UI, interactive animations, and real-world functionality like form submission and theme switching.
+
+</p>
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/React-Build_UI-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-Build_UI-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Framer_Motion-Animations-black?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Framer_Motion-Animations-F7DF1E?style=for-the-badge&logo=framer&logoColor=white&labelColor=black"/>
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 
 </p>
@@ -17,13 +22,13 @@ agency.ai is a modern, fully responsive digital agency website built using React
 ## 📌 Table of Contents
 
 - [🚀 Live Demo](#-live-demo)
-- [🚀 Project Preview](#-project-preview)
 - [✨ Overview](#-overview)
 - [🔥 Features](#-features)
+- [🚀 Project Preview](#-project-preview)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📂 Project Structure](#-project-structure)
 - [🏗️ Installation](#️-installation--setup)
-- [🚀Build for Production](#️-build-for-production)
+- [🚀 Production](#-build-for-production)
 - [🌐 Deployment](#-deployment)
 - [🎯 Highlights](#-key-highlights)
 - [📜 License](#-license)
@@ -33,15 +38,7 @@ agency.ai is a modern, fully responsive digital agency website built using React
 
 ## 🚀 Live Demo
 
-👉 **Direct Link:** https://arnav-sirkhal.github.io/to-do-list-js/
-
----
-
-## 🚀 Project Preview
-
-<p align="center">
-  <img src="images/screenshot.png" width="800"/>
-</p>
+👉 **Direct Link:** https://agencyai-reactjs.vercel.app/
 
 ---
 
@@ -105,6 +102,16 @@ It transforms creative ideas into engaging digital experiences with **smooth ani
 
 ---
 
+## 🚀 Project Preview
+
+<p align="center">
+  <img src="/screenshot_one.png" width="30%" />
+  <img src="/screenshot_two.png" width="30%" />
+  <img src="/screenshot_three.png" width="30%" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 - **React.js**
@@ -121,6 +128,10 @@ It transforms creative ideas into engaging digital experiences with **smooth ani
 ```
 agency.ai/
 │── public/
+│   ├── screenshot_one.png
+│   ├── screenshot_three.png
+│   └── screenshot_two.png
+|
 │── src/
 │   ├── assets/
 │   |   ├── ads_icon.svg
@@ -185,7 +196,7 @@ agency.ai/
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/agency.ai.git
+git clone https://github.com/Arnav-Sirkhal/agencyai-reactjs.git
 ```
 
 2️⃣ Navigate to the project:

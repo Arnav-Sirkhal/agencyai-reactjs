@@ -7,7 +7,19 @@
 * {
   font-family: "Manrope", sans-serif;
   font-weight: 500;
-  cursor: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  * {
+    cursor: none;
+  }
+}
+
+/* Hide custom cursor elements on touch devices */
+@media (hover: none) and (pointer: coarse) {
+  .custom-cursor {
+    display: none;
+  }
 }
 
 @theme {
