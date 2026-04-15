@@ -105,9 +105,9 @@ It transforms creative ideas into engaging digital experiences with **smooth ani
 ## 🚀 Project Preview
 
 <p align="center">
-  <img src="/screenshot_one.png" width="30%" />
-  <img src="/screenshot_two.png" width="30%" />
-  <img src="/screenshot_three.png" width="30%" />
+  <img src="public/screenshot_one.png" width="30%" />
+  <img src="public/screenshot_two.png" width="30%" />
+  <img src="public/screenshot_three.png" width="30%" />
 </p>
 
 ---
